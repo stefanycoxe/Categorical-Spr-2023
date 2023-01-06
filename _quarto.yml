@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Categorical (PSY 5939) - Spring 2023"
+  sidebar:
+    logo: "images/cat2023.png"
+    pinned: true
+    align: center
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

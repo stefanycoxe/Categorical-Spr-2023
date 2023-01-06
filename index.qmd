@@ -1,0 +1,26 @@
+---
+title: "Categorical (PSY 5939) - Spring 2023"
+---
+
+# Syllabus
+
+* [HTML version](files/Categorical syllabus Spring2023.html)
+* [PDF version](files/Categorical-syllabus-Spring2023.pdf)
+
+# Lecture videos
+
+* [Lecture videos on Youtube](https://www.youtube.com/playlist?list=PLKrGRYggZL-GfZgkKQN8q1BsvVoA8CFW0)
+
+# Lecture notes
+
+::: {.panel-tabset}
+
+### HTML slides
+
+* Week 1
+
+### PDF handouts
+
+* Week 1
+
+:::
