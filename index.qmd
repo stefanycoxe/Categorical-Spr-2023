@@ -13,14 +13,8 @@ title: "Categorical (PSY 5939) - Spring 2023"
 
 # Lecture notes
 
-::: {.panel-tabset}
-
-### HTML slides
-
-* Week 1
-
-### PDF handouts
-
-* Week 1
-
-:::
+Week | Topic | HTML slides | PDF handouts
+-----|-------|-------------|---------------
+1 | Introduction | [Cat23-1.html](files/Cat23-1.html) | [Cat23-1.pdf](files/Cat23-1.pdf)
+2 | Logistic regression | |
+3 | Logistic regression | |
