@@ -19,3 +19,5 @@ Week | Topic | HTML slides | PDF handouts
 2 | Logistic regression | [Cat23-2.html](files/Cat23-2.html) | [Cat23-2.pdf](files/Cat23-2.pdf)
 3 | Logistic regression | [Cat23-3.html](files/Cat23-3.html) | [Cat23-3.pdf](files/Cat23-3.pdf)
 4 | Ordinal, Multinomial | |
+5 | Poisson family | |
+6 | Poisson family | |
