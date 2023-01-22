@@ -16,5 +16,6 @@ title: "Categorical (PSY 5939) - Spring 2023"
 Week | Topic | HTML slides | PDF handouts
 -----|-------|-------------|---------------
 1 | Introduction | [Cat23-1.html](files/Cat23-1.html) | [Cat23-1.pdf](files/Cat23-1.pdf)
-2 | Logistic regression | [Cat23-2.html](files/Cat23-2.html) | [Cat23-2.pdf](files/Cat23-2.pdf)|
-3 | Logistic regression | |
+2 | Logistic regression | [Cat23-2.html](files/Cat23-2.html) | [Cat23-2.pdf](files/Cat23-2.pdf)
+3 | Logistic regression | [Cat23-3.html](files/Cat23-3.html) | [Cat23-3.pdf](files/Cat23-3.pdf)
+4 | Ordinal, Multinomial | |
