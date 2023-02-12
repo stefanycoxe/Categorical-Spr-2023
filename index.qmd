@@ -21,3 +21,4 @@ Week | Topic | HTML slides | PDF handouts
 4 | Ordinal, Multinomial | [Cat23-4.html](files/Cat23-4.html) | [Cat23-4.pdf](files/Cat23-4.pdf)
 5 | Poisson family | [Cat23-5.html](files/Cat23-5.html) | [Cat23-5.pdf](files/Cat23-5.pdf)
 6 | Poisson family | [Cat23-6.html](files/Cat23-6.html) | [Cat23-6.pdf](files/Cat23-6.pdf)|
+7 | GLiM wrap-up |  |  |
