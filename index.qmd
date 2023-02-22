@@ -13,16 +13,16 @@ title: "Categorical (PSY 5939) - Spring 2023"
 
 # Lecture notes
 
-Week | Topic | HTML slides | PDF handouts
------|-------|-------------|---------------
-1 | Introduction        | [Cat23-1.html](files/Cat23-1.html) | [Cat23-1.pdf](files/Cat23-1.pdf)
-2 | Logistic regression | [Cat23-2.html](files/Cat23-2.html) | [Cat23-2.pdf](files/Cat23-2.pdf)
-3 | Logistic regression | [Cat23-3.html](files/Cat23-3.html) | [Cat23-3.pdf](files/Cat23-3.pdf)
-4 | Ordinal, Multinomial | [Cat23-4.html](files/Cat23-4.html) | [Cat23-4.pdf](files/Cat23-4.pdf)
-5 | Poisson family      | [Cat23-5.html](files/Cat23-5.html) | [Cat23-5.pdf](files/Cat23-5.pdf)
-6 | Poisson family      | [Cat23-6.html](files/Cat23-6.html) | [Cat23-6.pdf](files/Cat23-6.pdf)
-7 | GLiM wrap-up        | [Cat23-7.html](files/Cat23-7.html) | [Cat23-7.pdf](files/Cat23-7.pdf)
-8 | Contingency tables  | |
+Week | Topic | HTML slides | PDF handouts | Lab handouts
+-----|-------|-------------|---------------|--------------
+1 | Introduction        | [Cat23-1.html](files/Cat23-1.html) | [Cat23-1.pdf](files/Cat23-1.pdf) | [Cat-class1.html](files/Cat-class1.html)
+2 | Logistic regression | [Cat23-2.html](files/Cat23-2.html) | [Cat23-2.pdf](files/Cat23-2.pdf) | [Cat-class2.html](files/Cat-class2.html)
+3 | Logistic regression | [Cat23-3.html](files/Cat23-3.html) | [Cat23-3.pdf](files/Cat23-3.pdf) | [Cat-class3.html](files/Cat-class3.html)
+4 | Ordinal, Multinomial | [Cat23-4.html](files/Cat23-4.html) | [Cat23-4.pdf](files/Cat23-4.pdf) | [Cat-class4.html](files/Cat-class4.html)
+5 | Poisson family      | [Cat23-5.html](files/Cat23-5.html) | [Cat23-5.pdf](files/Cat23-5.pdf) | [Cat-class5.html](files/Cat-class5.html)
+6 | Poisson family      | [Cat23-6.html](files/Cat23-6.html) | [Cat23-6.pdf](files/Cat23-6.pdf) | [Cat-class6.html](files/Cat-class6.html)
+7 | GLiM wrap-up        | [Cat23-7.html](files/Cat23-7.html) | [Cat23-7.pdf](files/Cat23-7.pdf) |
+8 | Contingency tables  | | |
 
 
 Last updated `r format(Sys.time(), '%B %d, %Y, %X')`
