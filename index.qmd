@@ -23,6 +23,6 @@ Week | Topic | HTML slides | PDF handouts | Lab handouts
 6 | Poisson family      | [Cat23-6.html](files/Cat23-6.html) | [Cat23-6.pdf](files/Cat23-6.pdf) | [Cat-class6.html](files/Cat-class6.html)
 7 | GLiM wrap-up        | [Cat23-7.html](files/Cat23-7.html) | [Cat23-7.pdf](files/Cat23-7.pdf) | [Cat-class7.html](files/Cat-class7.html)
 8 | Contingency tables  | [Cat23-8.html](files/Cat23-8.html) | [Cat23-8.pdf](files/Cat23-8.pdf) |
-
+9 | Contingency tables  | [Cat23-9.html](files/Cat23-9.html) | [Cat23-9.pdf](files/Cat23-9.pdf) |
 
 Last updated `r format(Sys.time(), '%B %d, %Y, %X')`
