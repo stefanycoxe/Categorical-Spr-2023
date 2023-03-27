@@ -25,5 +25,6 @@ Week | Topic | HTML slides | PDF handouts | Lab handouts
 8 | Contingency tables  | [Cat23-8.html](files/Cat23-8.html) | [Cat23-8.pdf](files/Cat23-8.pdf) | [Cat-class8.html](files/Cat-class8.html)
 9 | Contingency tables  | [Cat23-9.html](files/Cat23-9.html) | [Cat23-9.pdf](files/Cat23-9.pdf) | [Cat-class9.html](files/Cat-class9.html)
 10 | Repeated measures  | [Cat23-10.html](files/Cat23-10.html) | [Cat23-10.pdf](files/Cat23-10.pdf) |
+11 | Repeated measures  | [Cat23-11.html](files/Cat23-11.html) | [Cat23-11.pdf](files/Cat23-11.pdf) |
 
 Last updated `r format(Sys.time(), '%B %d, %Y, %X')`
